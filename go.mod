@@ -17,7 +17,7 @@ require (
 	github.com/karlseguin/ccache/v2 v2.0.6
 	github.com/namsral/flag v1.7.4-pre
 	github.com/patrickmn/go-cache v2.1.0+incompatible
-	github.com/pires/go-proxyproto v0.2.0
+	github.com/pires/go-proxyproto v0.6.0
 	github.com/prometheus/client_golang v1.11.0
 	github.com/rs/cors v1.7.0
 	github.com/sirupsen/logrus v1.8.1
